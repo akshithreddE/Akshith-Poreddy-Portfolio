@@ -46,7 +46,7 @@ function App() {
           <div className="flex items-start justify-between">
             <div className="max-w-3xl">
               <h1 className="text-5xl font-bold mb-6">Hi, I'm Akshith Poreddy</h1>
-              <p className="text-xl mb-8 text-blue-100">A passionate Full-Stack Developer from Warangal, Hyderabad, India</p>
+              <p className="text-xl mb-8 text-blue-100">A passionate Full-Stack Developer from Warangal, India</p>
               <div className="flex gap-4">
                 <a href="#contact" className="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
                   Get in Touch
@@ -60,7 +60,7 @@ function App() {
               <div className="relative">
                 <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-white shadow-xl transform hover:scale-105 transition-transform duration-300 ease-in-out hover:rotate-3">
                  
-                   <img src="WhatsApp Image 2025-02-15 at 14.31.07_f6c8b947.jpg"
+                   <img src="https://i.ibb.co/QFPwC3bX/Whats-App-Image-2025-02-15-at-14-31-07-f6c8b947.jpg"
 
                     alt="Akshith Poreddy"
                     className="w-full h-full object-cover"
