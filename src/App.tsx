@@ -147,7 +147,7 @@ function App() {
             <div className="bg-white p-8 rounded-xl shadow-sm mb-8">
               <h3 className="text-xl font-semibold mb-2">B.Tech in Computer Science</h3>
               <p className="text-gray-600 mb-2">Kakatiya Institute of Technology & Sciences (KITSW)</p>
-              <p className="text-gray-500">2023 - 2026 (Pursuing)</p>
+              <p className="text-gray-500">2022 - 2026 (Pursuing)</p>
             </div>
             <div className="bg-white p-8 rounded-xl shadow-sm mb-8">
               <h3 className="text-xl font-semibold mb-2">Intermediate</h3>
