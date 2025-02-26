@@ -79,7 +79,7 @@ function App() {
           <h2 className="text-3xl font-bold text-center mb-16">About Me</h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              I'm Akshith, a passionate Full-Stack Developer from Warangal, Hyderabad, India. Currently pursuing a Computer Science degree at Kakatiya Institute of Technology & Sciences (KITSW), I thrive on enhancing my coding skills and building innovative applications.
+              I'm Akshith, a passionate Full-Stack Developer from Warangal, India. Currently pursuing a Computer Science degree at Kakatiya Institute of Technology & Sciences (KITSW), I thrive on enhancing my coding skills and building innovative applications.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
               I specialize in developing WebApps and dynamic websites, constantly pushing my limits by working on Full-Stack clones. Dedicated to self-improvement, I am always exploring new technologies to refine my craft and create impactful digital experiences.
